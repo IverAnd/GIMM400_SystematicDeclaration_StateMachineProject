@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Hyper Dog
+  - Guard Dog
+  - Squirrels
+  - Obstacle
+  - Fence
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grass
+    uniqueID: 3673952963
+    locked: 0
+  - name: Animals
+    uniqueID: 3693017377
+    locked: 0
+  - name: Fences
+    uniqueID: 3108053523
+    locked: 0
+  - name: HidingSpots
+    uniqueID: 3812531499
+    locked: 0
